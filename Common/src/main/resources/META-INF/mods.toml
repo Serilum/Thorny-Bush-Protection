@@ -6,9 +6,9 @@ logoFile="icon.png"
 
 [[mods]]
 modId="thornybushprotection"
-version="1.0"
+version="1.1"
 displayName="Thorny Bush Protection"
-displayURL="https://curseforge.com/minecraft/mc-mods/thorny-bush-protection"
+displayURL="https://serilum.com/mod/thorny-bush-protection"
 authors="Rick South"
 description='''Allows players to walk in berry bushes without receiving damage if they're wearing leggings.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.thornybushprotection]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.16,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.thornybushprotection]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"
