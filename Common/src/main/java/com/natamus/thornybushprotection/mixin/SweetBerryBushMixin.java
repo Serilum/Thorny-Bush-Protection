@@ -1,4 +1,4 @@
-package com.natamus.thornybushprotection.fabric.mixin;
+package com.natamus.thornybushprotection.mixin;
 
 import com.natamus.thornybushprotection.util.Util;
 import net.minecraft.core.BlockPos;
