@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "thornybushprotection",
-  "version": "1.1",
+  "version": "1.2",
 
   "name": "Thorny Bush Protection",
   "description": "Allows players to walk in berry bushes without receiving damage if they're wearing leggings.",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": { "main": [ "com.natamus.thornybushprotection.ModFabric" ], "modmenu": [ "com.natamus.thornybushprotection.fabric.config.IntegrateModMenu" ] },
   "mixins": [
-    "thornybushprotection_fabric.mixins.json"
+    "thornybushprotection.mixins.json"
   ],
 
   "depends": {
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.21"
+    "collective": ">=7.26"
   },
 
   "custom": {
