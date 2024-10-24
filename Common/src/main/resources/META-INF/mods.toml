@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Thorny%20Bush%20Protection"
+logoFile="icon.png"
+
+[[mods]]
+modId="thornybushprotection"
+version="1.4"
+displayName="Thorny Bush Protection"
+displayURL="https://serilum.com/mod/thorny-bush-protection"
+authors="Rick South"
+description='''Allows players to walk in berry bushes without receiving damage if they're wearing leggings.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, Cherriesaurus, kate1073, Michael W. S., Tyler Behl, XAgent   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.thornybushprotection]]
+    modId="collective"
+    mandatory=true
+    versionRange="[7.85,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thornybushprotection]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.2,1.21.3]"
+    ordering="NONE"
+    side="BOTH"
