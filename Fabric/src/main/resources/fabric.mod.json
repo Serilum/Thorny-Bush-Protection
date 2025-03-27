@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "thornybushprotection",
-  "version": "1.4",
+  "version": "1.5",
 
   "name": "Thorny Bush Protection",
   "description": "Allows players to walk in berry bushes without receiving damage if they're wearing leggings.",
