@@ -1,8 +1,8 @@
-package com.natamus.thornybushprotection;
+package com.serilum.thornybushprotection;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.thornybushprotection.util.Reference;
+import com.serilum.thornybushprotection.util.Reference;
 import net.fabricmc.api.ModInitializer;
 
 public class ModFabric implements ModInitializer {
