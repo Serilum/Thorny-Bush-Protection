@@ -1,6 +1,6 @@
-package com.natamus.thornybushprotection.mixin;
+package com.serilum.thornybushprotection.mixin;
 
-import com.natamus.thornybushprotection.util.Util;
+import com.serilum.thornybushprotection.util.Util;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.Level;

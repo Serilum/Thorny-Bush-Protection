@@ -1,6 +1,6 @@
-package com.natamus.thornybushprotection.util;
+package com.serilum.thornybushprotection.util;
 
-import com.natamus.thornybushprotection.config.ConfigHandler;
+import com.serilum.thornybushprotection.config.ConfigHandler;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.player.Player;
