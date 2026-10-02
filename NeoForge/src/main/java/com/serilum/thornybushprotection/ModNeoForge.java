@@ -1,9 +1,9 @@
-package com.natamus.thornybushprotection;
+package com.serilum.thornybushprotection;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.thornybushprotection.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.thornybushprotection.util.Reference;
+import com.serilum.thornybushprotection.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.thornybushprotection.util.Reference;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
 import net.neoforged.fml.common.Mod;

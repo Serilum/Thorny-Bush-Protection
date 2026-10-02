@@ -1,7 +1,7 @@
-package com.natamus.thornybushprotection.forge.config;
+package com.serilum.thornybushprotection.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.thornybushprotection.util.Reference;
+import com.serilum.thornybushprotection.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

@@ -1,9 +1,9 @@
-package com.natamus.thornybushprotection;
+package com.serilum.thornybushprotection;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.thornybushprotection.forge.config.IntegrateForgeConfig;
-import com.natamus.thornybushprotection.util.Reference;
+import com.serilum.thornybushprotection.forge.config.IntegrateForgeConfig;
+import com.serilum.thornybushprotection.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
