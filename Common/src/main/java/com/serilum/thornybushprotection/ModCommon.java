@@ -1,6 +1,6 @@
-package com.natamus.thornybushprotection;
+package com.serilum.thornybushprotection;
 
-import com.natamus.thornybushprotection.config.ConfigHandler;
+import com.serilum.thornybushprotection.config.ConfigHandler;
 
 public class ModCommon {
 

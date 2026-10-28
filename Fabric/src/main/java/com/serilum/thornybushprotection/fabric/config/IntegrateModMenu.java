@@ -1,7 +1,7 @@
-package com.natamus.thornybushprotection.fabric.config;
+package com.serilum.thornybushprotection.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.thornybushprotection.util.Reference;
+import com.serilum.thornybushprotection.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
